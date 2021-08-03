@@ -62,18 +62,18 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Watch On YouTube 🎬",
-                        url=f"{url}")
+                        url=f"{url}"),
                     InlineKeyboardButton(
                         text="Support ⚠️",
-                        url="https://t.me/girls_boys_chatting_group01")
+                        url="https://t.me/girls_boys_chatting_group01"),
                 ],
                 [
                     InlineKeyboardButton(
                         text="Owner 💕",
-                        url="Thunder_Queen_XD")
+                        url="Thunder_Queen_XD"),
                     InlineKeyboardButton(
                         text="About Owner❤️",
-                        url="https://t.me/anu_editzzz")
+                        url="https://t.me/anu_editzzz"),
                 ]
             ]
         )
@@ -83,18 +83,18 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Watch On YouTube 🎬",
-                        url=f"{url}")
+                        url=f"{url}"),
                     InlineKeyboardButton(
                         text="Support ⚠️",
-                        url="https://t.me/girls_boys_chatting_group01")
+                        url="https://t.me/girls_boys_chatting_group01"),
                 ],
                 [
                     InlineKeyboardButton(
                         text="Owner 💕",
-                        url="Thunder_Queen_XD")
+                        url="Thunder_Queen_XD"),
                     InlineKeyboardButton(
                         text="About Owner❤️",
-                        url="https://t.me/anu_editzzz")
+                        url="https://t.me/anu_editzzz"),
                 ]
             ]
         )
