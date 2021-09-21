@@ -63,17 +63,6 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="𝐖𝐚𝐭𝐜𝐡 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞🎬",
                         url=f"{url}"),
-                    InlineKeyboardButton(
-                        text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭📢",
-                        url="https://t.me/DeCodeSupport"),
-                ],
-                [
-                    InlineKeyboardButton(
-                        text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥🤔",
-                        url="t.me/DeeCodeBots"),
-                    InlineKeyboardButton(
-                        text="𝐎𝐰𝐧𝐞𝐫❤️",
-                        url="https://t.me/About_Blaze"),
                 ]
             ]
         )
