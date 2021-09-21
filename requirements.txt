@@ -1,5 +1,6 @@
 pyrogram
 TgCrypto
+sqlite
 py-tgcalls==0.5.5
 python-dotenv
 youtube_dl
