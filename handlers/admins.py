@@ -52,7 +52,7 @@ async def stop(_, message: Message):
             pass
 
         callsmusic.pytgcalls.leave_group_call(message.chat.id)
-        await message.reply_text(🚫 𝐒𝐭𝐨𝐩𝐩𝐞𝐝 𝐬𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠!")
+        await message.reply_text("🚫 𝐒𝐭𝐨𝐩𝐩𝐞𝐝 𝐬𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠!")
 
 
 @Client.on_message(command("skip") & other_filters)
